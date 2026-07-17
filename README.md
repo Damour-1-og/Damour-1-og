@@ -21,8 +21,11 @@ R (Basic)
 Data Science Libraries
 
 Pandas
+
 NumPy
+
 Matplotlib
+
 Scikit-learn
 
 Tools
