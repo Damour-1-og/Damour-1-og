@@ -1,16 +1,77 @@
-## Hi there 👋
+👋 Hi, I'm Musabyimana Jean D'amour
 
-<!--
-**Damour-1-og/Damour-1-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Applied Mathematics Student | Aspiring Data Scientist & Machine Learning Engineer
+I'm an Applied Mathematics student at the University of Rwanda with a deep passion for Data Science, Machine Learning, Artificial Intelligence, and Mathematical Modeling. I love turning raw data into actionable insights and developing intelligent solutions that address real-world challenges in healthcare, agriculture, finance, and education.
 
-Here are some ideas to get you started:
+🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python for Data Science
+📊 Data Analysis & Visualization
+🤖 Machine Learning with Scikit-learn
+📈 Statistical Modeling
+⏳ Time Series Analysis
+
+
+🛠️ Tech Stack
+Programming
+
+Python
+R (Basic)
+
+Data Science Libraries
+
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+
+Tools
+
+Jupyter Notebook
+VS Code
+Git & GitHub
+Excel
+
+
+📁 Current Projects
+
+🎓 Student Performance & Depression Data Analysis
+🦠 Tuberculosis (TB) Mathematical Modeling using Compartmental Models
+📊 Exploratory Data Analysis (EDA) Projects
+🤖 Machine Learning Classification Models
+
+
+🎓 Education
+University of Rwanda
+Bachelor's Degree in Applied Mathematics
+
+🌟 Interests
+
+Data Science
+Machine Learning
+Artificial Intelligence
+Mathematical Modeling
+Predictive Analytics
+Healthcare Analytics
+Time Series Forecasting
+Research
+
+
+🎯 Goals for 2026
+
+🚀 Build 10+ End-to-End Data Science Projects
+🗃️ Master SQL for Data Analytics
+📊 Become proficient in Power BI
+🤝 Contribute to Open Source Projects
+🏆 Secure a Data Science Internship
+📄 Publish Data Science and Mathematical Modeling Projects on GitHub
+
+
+📬 Connect with Me
+
+📧 Email: jeamour2003@gmail.com
+🐙 GitHub: https://github.com/Damour-1-og
+
+
+
+"Data will talk to you if you're willing to listen." — Jim Bergeson
