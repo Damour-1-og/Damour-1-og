@@ -33,19 +33,22 @@ Git & GitHub
 Excel
 
 
-📁 Current Projects
+📁 CURRENT Projects
 
 🎓 Student Performance & Depression Data Analysis
-🦠 Tuberculosis (TB) Mathematical Modeling using Compartmental Models
+
+🦠 COVID19 Mathematical Modeling using Compartmental Models
+
 📊 Exploratory Data Analysis (EDA) Projects
+
 🤖 Machine Learning Classification Models
 
 
-🎓 Education
+🎓 EDUCATION
 University of Rwanda
 Bachelor's Degree in Applied Mathematics
 
-🌟 Interests
+🌟 INTEREST
 
 Data Science
 Machine Learning
@@ -72,11 +75,11 @@ Research
 📄 Publish Data Science and Mathematical Modeling Projects on GitHub
 
 
-📬 Connect with Me
+📬 CONNECT WITH ME
 
 📧 Email: jeamour2003@gmail.com
-🐙 GitHub: https://github.com/Damour-1-og
 
+🐙 GitHub: https://github.com/Damour-1-og
 
 
 "Data will talk to you if you're willing to listen." — Jim Bergeson
