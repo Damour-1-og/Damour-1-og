@@ -60,10 +60,15 @@ Research
 🎯 Goals for 2026
 
 🚀 Build 10+ End-to-End Data Science Projects
+
 🗃️ Master SQL for Data Analytics
+
 📊 Become proficient in Power BI
+
 🤝 Contribute to Open Source Projects
+
 🏆 Secure a Data Science Internship
+
 📄 Publish Data Science and Mathematical Modeling Projects on GitHub
 
 
